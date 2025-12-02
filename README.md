@@ -179,7 +179,7 @@ Permission granted for use, modification, and distribution. See [LICENSE](LICENS
 ## 👤 Contact
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/Nirmana-KAS/gemstone-measurement-consolidator)
+- GitHub: [@Nirmana-KAS](https://github.com/Nirmana-KAS)
 - Email: shehannirmana.orava@example.com
 
 **Support:** [Open an Issue](https://github.com/Nirmana-KAS/gemstone-measurement-consolidator/issues)
@@ -195,4 +195,5 @@ Permission granted for use, modification, and distribution. See [LICENSE](LICENS
 [🔝 Back to Top](#-gemstone-measurement-consolidator)
 
 </div>
+
 
