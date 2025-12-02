@@ -4,16 +4,10 @@
 
 ### *AI-Powered Quality Control for Precision Manufacturing*
 
-[![Version](https://img.shields.io/badge/version-2.0.0-blue?style=for-the-badge)](https://github.com/yourusername/gemstone-consolidator)
+[![Version](https://img.shields.io/badge/version-2.0.0-blue?style=for-the-badge)](https://github.com/Nirmana-KAS/gemstone-measurement-consolidator)
 [![Python](https://img.shields.io/badge/python-3.7+-brightgreen?style=for-the-badge&logo=python)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](LICENSE)
-[![Status](https://img.shields.io/badge/status-production-success?style=for-the-badge)](https://github.com/yourusername/gemstone-consolidator)
-
-**Transform hours of manual work into seconds with intelligent automation**
-
-[Quick Start](#-quick-start) • [Features](#-features) • [Install](#-installation) • [Usage](#-usage)
-
----
+[![Status](https://img.shields.io/badge/status-production-success?style=for-the-badge)](https://github.com/Nirmana-KAS/gemstone-measurement-consolidator)
 
 </div>
 
@@ -180,7 +174,7 @@ Permission granted for use, modification, and distribution. See [LICENSE](LICENS
 
 **Your Name**
 - GitHub: [@Nirmana-KAS](https://github.com/Nirmana-KAS)
-- Email: shehannirmana.orava@example.com
+- Email: shehannirmana.orava@gmail.com
 
 **Support:** [Open an Issue](https://github.com/Nirmana-KAS/gemstone-measurement-consolidator/issues)
 
@@ -195,5 +189,6 @@ Permission granted for use, modification, and distribution. See [LICENSE](LICENS
 [🔝 Back to Top](#-gemstone-measurement-consolidator)
 
 </div>
+
 
 
