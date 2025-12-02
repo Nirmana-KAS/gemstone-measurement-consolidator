@@ -1,0 +1,39 @@
+END USER LICENSE AGREEMENT
+
+Orava Gemstone Master Reporter
+Version 1.0.0
+© 2025 Orava Solutions. All rights reserved.
+
+IMPORTANT - READ CAREFULLY
+
+This End-User License Agreement ("EULA") is a legal agreement between you (either an individual or a single entity) and Orava Solutions for the software product identified above, which includes computer software and may include associated media, printed materials, and "online" or electronic documentation ("SOFTWARE").
+
+By installing, copying, or otherwise using the SOFTWARE, you agree to be bound by the terms of this EULA. If you do not agree to the terms of this EULA, do not install or use the SOFTWARE.
+
+1. GRANT OF LICENSE
+Orava Solutions grants you the following rights:
+- Installation and Use: You may install and use the SOFTWARE on a single computer.
+- Backup Copy: You may make one backup copy of the SOFTWARE for archival purposes.
+
+2. RESTRICTIONS
+- You may not reverse engineer, decompile, or disassemble the SOFTWARE.
+- You may not rent, lease, or lend the SOFTWARE.
+- You may not modify or create derivative works based on the SOFTWARE.
+
+3. COPYRIGHT
+All title and copyrights in and to the SOFTWARE (including but not limited to any images, photographs, animations, video, audio, music, text, and "applets" incorporated into the SOFTWARE) are owned by Orava Solutions.
+
+4. LIMITED WARRANTY
+The SOFTWARE is provided "AS IS" without warranty of any kind. Orava Solutions disclaims all warranties, either express or implied, including but not limited to implied warranties of merchantability and fitness for a particular purpose.
+
+5. LIMITATION OF LIABILITY
+In no event shall Orava Solutions be liable for any damages whatsoever (including, without limitation, damages for loss of business profits, business interruption, loss of business information, or any other pecuniary loss) arising out of the use or inability to use this SOFTWARE.
+
+6. TERMINATION
+This EULA is effective until terminated. Your rights under this EULA will terminate automatically without notice if you fail to comply with any term(s) of this EULA.
+
+If you have any questions concerning this EULA, please contact:
+Email: support@oravasolutions.com
+Website: www.oravasolutions.com
+
+By clicking "I Agree" below, you acknowledge that you have read this agreement, understand it, and agree to be bound by its terms and conditions.
