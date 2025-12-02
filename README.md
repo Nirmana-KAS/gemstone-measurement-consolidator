@@ -22,7 +22,7 @@
 **Orava Gemstone Master Reporter** automatically consolidates multiple Excel measurement files, validates values against tolerances, and generates professional color-coded reports for quality control.
 
 ```
-📊 Upload Files → ⚙️ Set Tolerances → ✅ Auto-Validate → 📈 Export Report
+📊 Upload Gem Measurement Report Excel Files → ⚙️ Set Tolerances → ✅ Auto-Validate → 📈 Export Master Report Excel File
 ```
 
 ### ✨ Key Features
@@ -40,8 +40,8 @@
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/gemstone-consolidator.git
-cd gemstone-consolidator
+git https://github.com/Nirmana-KAS/gemstone-measurement-consolidator
+cd gemstone-measurement-consolidator
 
 # Create virtual environment
 python -m venv venv
@@ -179,10 +179,10 @@ Permission granted for use, modification, and distribution. See [LICENSE](LICENS
 ## 👤 Contact
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [@yourusername](https://github.com/Nirmana-KAS/gemstone-measurement-consolidator)
+- Email: shehannirmana.orava@example.com
 
-**Support:** [Open an Issue](https://github.com/yourusername/gemstone-consolidator/issues)
+**Support:** [Open an Issue](https://github.com/Nirmana-KAS/gemstone-measurement-consolidator/issues)
 
 ---
 
@@ -195,3 +195,4 @@ Permission granted for use, modification, and distribution. See [LICENSE](LICENS
 [🔝 Back to Top](#-gemstone-measurement-consolidator)
 
 </div>
+
